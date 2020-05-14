@@ -1,0 +1,23 @@
+body{
+  background-color: lightgrey;
+}
+
+h1,p{
+  text-align: center;
+}
+
+.axis{
+  font: 15px Verdana, sans-serif;
+}
+
+.graph-svg-component{
+  background-color: white;
+  display: block;
+  margin: auto;
+}
+
+.axis path, .axis line {
+  fill: none;
+  stroke: black;
+  
+}
